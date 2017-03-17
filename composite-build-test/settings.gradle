@@ -1,0 +1,5 @@
+rootProject.name = 'composite-build-test'
+
+if (file('../somedep').exists()) {
+    includeBuild '../somedep'
+}

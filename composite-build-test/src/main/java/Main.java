@@ -8,7 +8,7 @@
 public class Main {
 
     public static void main(String[] args) {
-        System.err.println(Main.class.getClassLoader().getResource("someresource.txt"));
+        System.err.println(ClassDependency.class.getClassLoader().getResource("someresource.txt"));
         System.err.println(ClassDependency.class);
     }
 }

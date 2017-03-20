@@ -6,8 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/composite-build-test_main.iml" filepath="$PROJECT_DIR$/.idea/modules/composite-build-test_main.iml" group="composite-build-test" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/composite-build-test_test.iml" filepath="$PROJECT_DIR$/.idea/modules/composite-build-test_test.iml" group="composite-build-test" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/-183532920/somedep.iml" filepath="$PROJECT_DIR$/.idea/modules/-183532920/somedep.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/somedep_main.iml" filepath="$PROJECT_DIR$/.idea/modules/somedep_main.iml" group="somedep" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/somedep_test.iml" filepath="$PROJECT_DIR$/.idea/modules/somedep_test.iml" group="somedep" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-183532920/somedep_main.iml" filepath="$PROJECT_DIR$/.idea/modules/-183532920/somedep_main.iml" group="somedep" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-183532920/somedep_test.iml" filepath="$PROJECT_DIR$/.idea/modules/-183532920/somedep_test.iml" group="somedep" />
     </modules>
   </component>
 </project>
